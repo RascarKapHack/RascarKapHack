@@ -1,4 +1,7 @@
+
+---
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tiro+Devanagari+Sanskrit&size=32&duration=2000&color=CF0000&lines=Ing%C3%A9nieur+s%C3%A9curit%C3%A9;DevOps)
+---
 
 <p align="center">
   <img width="92" src="/img/rascar.png" />
@@ -24,6 +27,7 @@
 ---
 ## Repos
 [![FastAPI Web Starter](https://github-readme-stats.vercel.app/api/pin/?username=RascarKapHack&repo=ChatBox&show_owner=true)](https://github.com/RascarKapHack/ChatBox)
+[![FastAPI Web Starter](https://github-readme-stats.vercel.app/api/pin/?username=iTrofa&repo=OmegaVirus&show_owner=true)](https://github.com/iTrofa/OmegaVirus)
 
 ---
 ## **Languages and Tools:**  
