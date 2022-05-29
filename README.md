@@ -39,5 +39,4 @@
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/vim.png"></code>
 
 ---
-Profil Rootme
-[![root-me](img/rootme.png?style=centerme)]("https://www.root-me.org/Rascar-Kap-hack")
+[![root-me](img/rootme.png?style=centerme)](https://www.root-me.org/Rascar-Kap-hack "Redirect to root-me")
