@@ -2,7 +2,7 @@
 ---
 
 <p align="center">
-  <img width="92" src="/img/rascar.png" href="https://www.google.fr" />
+  <img width="92" src="/img/rascar.png" />
 </p>  
 <h2 align="center">Hi there 👋, I'm Rascar!</h2>
 
@@ -11,7 +11,7 @@
 
 ![Rascar GitHub stats](https://github-readme-stats.vercel.app/api?username=RascarKapHack&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-![Top Langs Rascar](https://github-readme-stats.vercel.app/api/top-langs/?username=RascarKapHack&layout=compact)
+![Top Langs Rascar](https://github-readme-stats.vercel.app/api/top-langs/?username=RascarKapHack&title_color=000000&)
 
 ![GitHub Streak Rascar](https://github-readme-streak-stats.herokuapp.com?user=RascarKapHack&theme=holi-theme&hide_border=true)
 
