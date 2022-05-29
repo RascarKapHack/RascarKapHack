@@ -5,7 +5,6 @@
 </p>  
 <h2 align="center">Hi there 👋, I'm Rascar!</h2>
 
----
 <h3>🏆 Github Profile Trophy</h2>
 
 ![Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=RascarKapHack&show_icons=true&theme=tokyonight)
