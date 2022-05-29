@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Ingénieur+sécurité+-+DevSecOps.++++++++++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=008520&center=true&lines=Ing%C3%A9nieur+s%C3%A9curit%C3%A9+-+DevOps)](https://git.io/typing-svg)
 
 <p align="center">
   <img width="92" src="/img/rascar.png" />
@@ -7,7 +7,7 @@
 
 <h3>🏆 Github Profile Trophy</h2>
 
-![Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=RascarKapHack&show_icons=true&theme=tokyonight)
+![Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=RascarKapHack&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RascarKapHack&layout=compact)
 
