@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=008520&lines=Ing%C3%A9nieur+s%C3%A9curit%C3%A9+-+DevOps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tiro+Devanagari+Sanskrit&size=32&duration=2000&color=008520&lines=Ing%C3%A9nieur+s%C3%A9curit%C3%A9;DevOps)](https://git.io/typing-svg)
 
 <p align="center">
   <img width="92" src="/img/rascar.png" />
