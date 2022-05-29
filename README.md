@@ -2,7 +2,7 @@
 ---
 
 <p align="center">
-  <img width="92" src="/img/rascar.png" />
+  <img width="92" src="/img/rascar.png" href="https://www.google.fr" />
 </p>  
 <h2 align="center">Hi there 👋, I'm Rascar!</h2>
 
