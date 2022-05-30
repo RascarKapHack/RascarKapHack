@@ -8,6 +8,7 @@
 
 ## Presentation
 ...
+![Top Langs Rascar](https://github-readme-stats.vercel.app/api/top-langs/?username=RascarKapHack&title_color=000000&)
 
 ## Repos
 [![FastAPI Web Starter](https://github-readme-stats.vercel.app/api/pin/?username=RascarKapHack&repo=ChatBox&show_owner=true)](https://github.com/RascarKapHack/ChatBox)
@@ -31,8 +32,6 @@
 <h3>🏆 Github Profile Trophy</h2>
 
 ![Rascar GitHub stats](https://github-readme-stats.vercel.app/api?username=RascarKapHack&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-![Top Langs Rascar](https://github-readme-stats.vercel.app/api/top-langs/?username=RascarKapHack&title_color=000000&)
 
 ![GitHub Streak Rascar](https://github-readme-streak-stats.herokuapp.com?user=RascarKapHack&theme=holi-theme&hide_border=true)
 
