@@ -18,15 +18,14 @@
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/visual-studio-code.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/vim.png"></code>
+
+[![root-me](img/rootme.png?style=centerme)](https://www.root-me.org/Rascar-Kap-hack "Redirect to root-me")
 ---
 
 ## Repos
 [![FastAPI Web Starter](https://github-readme-stats.vercel.app/api/pin/?username=RascarKapHack&repo=ChatBox&show_owner=true)](https://github.com/RascarKapHack/ChatBox)
 [![FastAPI Web Starter](https://github-readme-stats.vercel.app/api/pin/?username=iTrofa&repo=OmegaVirus&show_owner=true)](https://github.com/iTrofa/OmegaVirus)
 ---
-
-
-[![root-me](img/rootme.png?style=centerme)](https://www.root-me.org/Rascar-Kap-hack "Redirect to root-me")
 
 ---
 <h3>🏆 Github Profile Trophy</h2>
