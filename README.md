@@ -7,7 +7,7 @@
 <h2 align="center">Hi there 👋, I'm Rascar!</h2>
 
 ## Presentation
-...
+
 ![Top Langs Rascar](https://github-readme-stats.vercel.app/api/top-langs/?username=RascarKapHack&title_color=000000&)
 
 ## Repos
