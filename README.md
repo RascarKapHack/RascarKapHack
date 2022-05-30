@@ -28,12 +28,10 @@
 ---
 
 ## Medium Articles
-...
----
+Lorem ipsum
 
 ## Projects
-...
----
+Lorem ipsum
 
 ## Repos
 [![FastAPI Web Starter](https://github-readme-stats.vercel.app/api/pin/?username=RascarKapHack&repo=ChatBox&show_owner=true)](https://github.com/RascarKapHack/ChatBox)
