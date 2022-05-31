@@ -13,7 +13,7 @@
 
 ## Presentation
 
-![Top Langs Rascar](https://github-readme-stats.vercel.app/api/top-langs/?username=RascarKapHack&title_color=000000&)
+![Top Langs Rascar](https://github-readme-stats.vercel.app/api/top-langs/?username=RascarKapHack&title_color=000000&layout=compact)
 ## **Languages and Tools:**  
 
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></code>
