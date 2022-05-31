@@ -2,5 +2,5 @@
 ![made-with-bash](/img/made-with-bash.svg?style=centerme)
 
 >## Hardening
->#### Post installation script on debian 11, to harden the system..
->[![FastAPI Web Starter](https://github-readme-stats.vercel.app/api/pin/?username=RascarKapHack&repo=Hardening&show_owner=true)](https://github.com/RascarKapHack/ChatBox)
+>#### Post installation script on debian 11, to harden the system.
+>[![FastAPI Web Starter](https://github-readme-stats.vercel.app/api/pin/?username=RascarKapHack&repo=Hardening&show_owner=true)]()
