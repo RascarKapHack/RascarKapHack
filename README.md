@@ -62,7 +62,10 @@ Lorem ipsum
 ## Repos
 [![FastAPI Web Starter](https://github-readme-stats.vercel.app/api/pin/?username=RascarKapHack&repo=ChatBox&show_owner=true)](https://github.com/RascarKapHack/ChatBox)
 [![FastAPI Web Starter](https://github-readme-stats.vercel.app/api/pin/?username=iTrofa&repo=OmegaVirus&show_owner=true)](https://github.com/iTrofa/OmegaVirus)
----
+
+## Certifications
+<code><img src="https://it-gnosis.eu/formations/certified-ethical-hacker/cover-ceh.jpg" alt="linux" width="40" height="40"/></code> **Certified Ethical Hacker (CEH)**
+EC-Council ASEAN
 
 ---
 <h3>🏆 Github Profile Trophy</h2>
