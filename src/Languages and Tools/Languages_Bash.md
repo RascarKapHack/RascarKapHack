@@ -13,7 +13,7 @@
 
 >## Cheat Sheet 
 >#### Installation of Cheat Sheet.
->[![FastAPI Web Starter](https://github-readme-stats.vercel.app/api/pin/?username=RascarKapHack&repo=Script-Toolbox&show_owner=true)](https://github.com/RascarKapHack/Script-Toolbox)
+>[![FastAPI Web Starter](https://github-readme-stats.vercel.app/api/pin/?username=RascarKapHack&repo=Script-Toolbox&show_owner=true)](https://github.com/RascarKapHack/Script-Toolbox/tree/main/src/Cheat%20Sheet)
 
 >## Bookstrap Server
 >#### Script Installation of bookstrap server.
