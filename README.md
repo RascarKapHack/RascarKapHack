@@ -22,7 +22,7 @@
 
 > #### Languages
 > <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></code>
-> <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></code>
+> <code><a href="/src/Languages and Tools/Languages_Bash.md"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></code>
 > <code><a href="/src/Languages and Tools/Languages_R.md"><img height="40" src="https://symbols.getvecta.com/stencil_94/126_rust-language-icon.1652c6341b.svg"></code>
 > <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/langfr-1920px-Node.js_logo.svg.png"></code>
 > <code><img height="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></code>
