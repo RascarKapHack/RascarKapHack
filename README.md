@@ -50,8 +50,7 @@
 > #### Others
 > <code><img src="https://www.datocms-assets.com/2885/1620155106-brandhcpackerverticalcolor.svg" alt="linux" width="40" height="40"/></code>
 > <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></code>
-
-[![root-me](img/rootme.png?style=centerme)](https://www.root-me.org/Rascar-Kap-hack "Redirect to root-me")
+>[![root-me](img/rootme.png?style=centerme)](https://www.root-me.org/Rascar-Kap-hack "Redirect to root-me")
 ---
 
 ## Medium Articles
