@@ -1,8 +1,8 @@
-<p align="center">
+<!--<p align="center">
   <img src="/img/under_construction.gif" />
 </p>
-
 ---
+-->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tiro+Devanagari+Sanskrit&size=32&duration=2000&color=CF0000&lines=Ing%C3%A9nieur+s%C3%A9curit%C3%A9;DevOps)
 ---
 
