@@ -47,10 +47,12 @@
 ><code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vagrant/vagrant.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/labs/thumb/b/ba/Kubernetes-icon-color.svg/512px-Kubernetes-icon-color.svg.png?20210818121315"></code>
 
-> #### Others
+> #### Systems
 > <code><img src="https://icon-library.com/images/windows-server-icon/windows-server-icon-7.jpg" alt="linux" width="38" height="38"/></code>
 > <code><img src="https://free-astro.org/images/0/04/Debian_logo.png" alt="linux" width="40" height="40"/></code>
-> <code><img src="https://www.datocms-assets.com/2885/1620155106-brandhcpackerverticalcolor.svg" alt="linux" width="45" height="45"/></code>
+
+> #### Others
+> <code><img src="https://www.datocms-assets.com/2885/1620155106-brandhcpackerverticalcolor.svg" alt="linux" width="40" height="40"/></code>
 > <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></code>
 >[![root-me](img/rootme.png?style=centerme)](https://www.root-me.org/Rascar-Kap-hack "Redirect to root-me")
 ---
