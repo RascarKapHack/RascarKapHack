@@ -66,14 +66,8 @@ Lorem ipsum
 ## Certifications
 <code><img src="https://it-gnosis.eu/formations/certified-ethical-hacker/cover-ceh.jpg" alt="linux" width="40" height="40"/></code> <p>**Certified Ethical Hacker (CEH)** <br> EC-Council ASEAN</p>
 
-<code>
-<div>
-<img src="https://it-gnosis.eu/formations/certified-ethical-hacker/cover-ceh.jpg" alt="linux" width="40" height="40"/>
-</div>
-<div>
-<p>**Certified Ethical Hacker (CEH)** <br> EC-Council ASEAN</p>
-</div>
-</code>
+<code><img src="https://it-gnosis.eu/formations/certified-ethical-hacker/cover-ceh.jpg" alt="linux" width="40" height="40"/>
+<p>**Certified Ethical Hacker (CEH)** <br> EC-Council ASEAN</p></code>
 
 ---
 <h3>🏆 Github Profile Trophy</h2>
