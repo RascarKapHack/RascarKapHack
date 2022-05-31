@@ -17,7 +17,7 @@
 ## **Languages and Tools:**  
 
 > #### IDE
-> <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/9/9f/20100427190601%21Vimlogo.svg/120px-Vimlogo.svg.png"></code>
+> <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/9/9f/20100427190601%21Vimlogo.svg/120px-Vimlogo.svg.png" href="https://github.com/RascarKapHack/Custom-Vim"></code>
 > <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/visual-studio-code.png"></code>
 
 > #### Languages
@@ -49,6 +49,8 @@
 ><code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vagrant/vagrant.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/labs/thumb/b/ba/Kubernetes-icon-color.svg/512px-Kubernetes-icon-color.svg.png?20210818121315"></code>
 
+
+<code><img src="https://www.datocms-assets.com/2885/1620155106-brandhcpackerverticalcolor.svg" alt="linux" width="40" height="40"/></code>
 
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></code>
 
