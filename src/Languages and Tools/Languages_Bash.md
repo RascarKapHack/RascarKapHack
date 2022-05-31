@@ -9,6 +9,10 @@
 >#### Debian customization script (motd,bashrc,issue,etc).
 >[![FastAPI Web Starter](https://github-readme-stats.vercel.app/api/pin/?username=RascarKapHack&repo=Hardening&show_owner=true)]()
 
+>## Cheat Sheet 
+>#### Installation of Cheat Sheet.
+>[![FastAPI Web Starter](https://github-readme-stats.vercel.app/api/pin/?username=RascarKapHack&repo=Hardening&show_owner=true)]()
+
 >## Bookstrap Server
 >#### Script Installation of bookstrap server.
 >[![FastAPI Web Starter](https://github-readme-stats.vercel.app/api/pin/?username=RascarKapHack&repo=Hardening&show_owner=true)]()
