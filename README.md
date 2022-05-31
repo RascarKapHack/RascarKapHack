@@ -29,6 +29,10 @@
 > <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png?20201031132917"></code>
 > <code><img height="40" src="https://hackr.io/tutorials/assembly-language/logo-assembly-language.svg?ver=1603208610"></code>
 
+> #### Database
+> <code><img src="https://www.logiciels.pro/wp-content/uploads/2021/05/mariadb-avis-prix-alternatives-logiciel.webp" alt="git" width="40" height="40"/></code>
+> <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" alt="git" width="40" height="40"/></code>
+
 > #### Versionning
 > <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1024px-Octicons-mark-github.svg.png" alt="git" width="40" height="40"/></code>
 > <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></code>
