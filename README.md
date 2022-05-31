@@ -27,9 +27,7 @@
 > <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/langfr-1920px-Node.js_logo.svg.png"></code>
 > <code><img height="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></code>
 > <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png?20201031132917"></code>
-
-
-
+> <code><img height="40" src="https://hackr.io/tutorials/assembly-language/logo-assembly-language.svg?ver=1603208610"></code>
 
 > #### Versionning
 > <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1024px-Octicons-mark-github.svg.png" alt="git" width="40" height="40"/></code>
