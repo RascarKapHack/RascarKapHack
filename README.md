@@ -32,6 +32,7 @@
 > #### Database
 > <code><img src="https://www.logiciels.pro/wp-content/uploads/2021/05/mariadb-avis-prix-alternatives-logiciel.webp" alt="git" width="40" height="40"/></code>
 > <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" alt="git" width="40" height="40"/></code>
+> <code><img src="https://sqliteviewer.com/blog/wp-content/uploads/2015/06/sqlite-database.png" alt="git" height="40"/></code>
 
 > #### Versionning
 > <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1024px-Octicons-mark-github.svg.png" alt="git" width="40" height="40"/></code>
