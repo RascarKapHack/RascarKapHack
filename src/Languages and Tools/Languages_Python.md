@@ -5,7 +5,7 @@
 
 >## Web Scrapping (2020)
 >#### Use of Selenium for massive scrapping, with modification of users agents, proxy, in headless mode. Use of multi-processors.
->[![FastAPI Web Starter](https://github.com/RascarKapHack/RascarKapHack/blob/main/img/illustration_projet.png?raw=true)](https://www.bnbstickers.com/wp-content/uploads/2017/01/private-notext.png)
+>[![FastAPI Web Starter](https://github.com/RascarKapHack/RascarKapHack/blob/main/img/illustration_projet_python.png?raw=true)](https://www.bnbstickers.com/wp-content/uploads/2017/01/private-notext.png)
 
 >## Soccer Simulator (2019 - Sorbonne Project)
 >#### Programming of strategies improved by learning algorithms.
