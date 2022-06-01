@@ -5,4 +5,4 @@
 
 >## Projet Python
 >#### Lorem ipsum.
->![FastAPI Web Starter](https://github.com/RascarKapHack/RascarKapHack/blob/main/img/illustration_projet.png?raw=true)
+>[![FastAPI Web Starter](https://github.com/RascarKapHack/RascarKapHack/blob/main/img/illustration_projet.png?raw=true)](https://www.bnbstickers.com/wp-content/uploads/2017/01/private-notext.png)
