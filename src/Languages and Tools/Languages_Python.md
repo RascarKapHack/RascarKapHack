@@ -3,6 +3,6 @@
 ![made-with-rust](https://github.com/RascarKapHack/Custom-Vim/raw/main/img/it's-work.svg?style=centerme)
 ![made-with-rust](https://github.com/RascarKapHack/ChatBox/raw/main/img/powered-by-rascar.svg?style=centerme)
 
->## ChatBox
->#### Creation of a TCP/IP Chat with user management via a SQLite database, two-factor identification.
->[![FastAPI Web Starter](https://github-readme-stats.vercel.app/api/pin/?username=RascarKapHack&repo=ChatBo&show_owner=true)](https://github.com/RascarKapHack/ChatBox)
+>## Projet Python
+>#### Lorem ipsum.
+>![FastAPI Web Starter](https://github.com/RascarKapHack/RascarKapHack/blob/main/img/illustration_projet.png?raw=true)
