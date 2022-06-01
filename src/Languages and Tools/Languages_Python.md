@@ -5,4 +5,4 @@
 
 >## ChatBox
 >#### Creation of a TCP/IP Chat with user management via a SQLite database, two-factor identification.
->[![FastAPI Web Starter](https://github-readme-stats.vercel.app/api/pin/?username=RascarKapHack&repo=ChatBox&show_owner=true)](https://github.com/RascarKapHack/ChatBox)
+>[![FastAPI Web Starter](https://github-readme-stats.vercel.app/api/pin/?username=RascarKapHack&repo=ChatBo&show_owner=true)](https://github.com/RascarKapHack/ChatBox)
