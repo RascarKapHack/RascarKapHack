@@ -73,7 +73,14 @@ Lorem ipsum
 [![FastAPI Web Starter](https://github-readme-stats.vercel.app/api/pin/?username=iTrofa&repo=OmegaVirus&show_owner=true)](https://github.com/iTrofa/OmegaVirus)
 
 ## Certifications
-
+<!--
+Regrouper entre 
+- certifications fonctionnelles (ISO 27001 Lead Auditor/Implementor, CISSP)
+----
+- certifications techniques (CEH/OSCP)
+----
+- certifications admin (LPIC 100-500, CKA, etc)
+-->
 ><code><a href="https://aspen.eccouncil.org/Verify"><img src="img/ceh.png" alt="ceh"/></a></code>
 
 ---
