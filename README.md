@@ -59,6 +59,8 @@
 > #### Others
 > <code><img src="https://www.datocms-assets.com/2885/1620155106-brandhcpackerverticalcolor.svg" alt="linux" width="40" height="40"/></code>
 > <code><img src="https://info.varonis.com/hs-fs/hubfs/Imported_Blog_Media/cuckoo_logo-1.png?width=640&height=233&name=cuckoo_logo-1.png" alt="linux" height="40"/></code>
+> <code><img src="https://suricata.io/wp-content/uploads/2021/01/Suricata_logo_600x600.png" alt="linux" height="40"/></code>
+
 >[![root-me](img/rootme.png?style=centerme)](https://www.root-me.org/Rascar-Kap-hack "Redirect to root-me")
 ---
 
