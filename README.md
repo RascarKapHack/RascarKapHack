@@ -73,7 +73,8 @@ Lorem ipsum
 [![FastAPI Web Starter](https://github-readme-stats.vercel.app/api/pin/?username=iTrofa&repo=OmegaVirus&show_owner=true)](https://github.com/iTrofa/OmegaVirus)
 
 ## Certifications
-<code><a href="https://aspen.eccouncil.org/Verify"><img src="img/ceh.png" alt="ceh"/></a></code>
+
+><code><a href="https://aspen.eccouncil.org/Verify"><img src="img/ceh.png" alt="ceh"/></a></code>
 
 ---
 <h3>🏆 Github Profile Trophy</h2>
