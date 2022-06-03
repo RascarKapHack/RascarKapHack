@@ -9,7 +9,7 @@
 
 >## Dolibarr Server (2022 - ESGI Project)
 >#### Script Installation of dolibarr server.
->[![FastAPI Web Starter](https://github-readme-stats.vercel.app/api/pin/?username=RascarKapHack&repo=Script-Toolbox&show_owner=true)](https://github.com/RascarKapHack/Script-Toolbox)
+>[![FastAPI Web Starter](https://github-readme-stats.vercel.app/api/pin/?username=RascarKapHack&repo=Script-Toolbox&show_owner=true)](https://github.com/RascarKapHack/Script-Toolbox/tree/main/src/srv/dolibarr)
 
 >## Post Install Script (2020 - ESGI Project)
 >#### Debian customization script (motd,bashrc,issue,etc).
