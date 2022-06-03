@@ -9,7 +9,6 @@
 <p align="center">
   <img width="92" src="/img/rascar.png" />
 </p>  
-<h2 align="center">Hi there 👋, I'm Rascar!</h2>
 
 ## Presentation
 
