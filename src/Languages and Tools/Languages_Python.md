@@ -3,6 +3,10 @@
 ![made-with-rust](https://github.com/RascarKapHack/Custom-Vim/raw/main/img/it's-work.svg?style=centerme)
 ![made-with-rust](https://github.com/RascarKapHack/ChatBox/raw/main/img/powered-by-rascar.svg?style=centerme)
 
+>## Cryptolocker (2022)
+>#### Development of a cryptolocker with open features.
+>[![FastAPI Web Starter](https://github.com/RascarKapHack/RascarKapHack/blob/main/img/illustration_projet_python.png?raw=true)](https://www.bnbstickers.com/wp-content/uploads/2017/01/private-notext.png)
+
 >## Web Scrapping (2020)
 >#### Use of Selenium for massive scrapping, with modification of users agents, proxy, in headless mode. Use of multi-processors.
 >[![FastAPI Web Starter](https://github.com/RascarKapHack/RascarKapHack/blob/main/img/illustration_projet_python.png?raw=true)](https://www.bnbstickers.com/wp-content/uploads/2017/01/private-notext.png)
