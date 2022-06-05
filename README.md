@@ -20,6 +20,7 @@
 > <code><a><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/visual-studio-code.png"></a></code>
 
 > #### Languages
+>> Interpreted
 >> <code><a href="/src/Languages and Tools/Languages_Python.md"><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></a></code>
 >> <code><a href="/src/Languages and Tools/Languages_Bash.md"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a></code>
 >> <code><a href="/src/Languages and Tools/Languages_NodeJS.md"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/langfr-1920px-Node.js_logo.svg.png"></a></code> <br>
