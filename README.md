@@ -42,8 +42,7 @@
 > <code><img src="https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/155/thumb_bigger_formation-gitlab.png" alt="git" width="40" height="40"/></code>
 
 > #### Virtualisation
-><code><img height="40" src="https://play-lh.googleusercontent.com/TT36Nsjyt0Yn8eyPAXuNK0bJsXmryP9ovsp7qdOy9sulYlr7v2Le5Ckf0I9S3AiaaXs=w240-h480-rw"></code>
-<code><img height="40" src="https://bearstech.com/technologies-expertises/kvm/logo.svg"></code>
+><code><img height="40" src="https://bearstech.com/technologies-expertises/kvm/logo.svg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/769px-Vmware_workstation_16_icon.svg.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"></code>
 
@@ -51,8 +50,9 @@
 ><code><img height="40" src="https://www.docker.com/wp-content/uploads/2022/05/Docker_Temporary_Image_Google_Blue_1080x1080_v1.png"></code>
 
 > #### Orchestrator
+><code><img height="40" src="https://play-lh.googleusercontent.com/TT36Nsjyt0Yn8eyPAXuNK0bJsXmryP9ovsp7qdOy9sulYlr7v2Le5Ckf0I9S3AiaaXs=w240-h480-rw"></code>
 ><code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vagrant/vagrant.png"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/labs/thumb/b/ba/Kubernetes-icon-color.svg/512px-Kubernetes-icon-color.svg.png?20210818121315"></code>
+><code><img height="40" src="https://upload.wikimedia.org/wikipedia/labs/thumb/b/ba/Kubernetes-icon-color.svg/512px-Kubernetes-icon-color.svg.png?20210818121315"></code>
 
 > #### Systems
 > <code><img src="https://icon-library.com/images/windows-server-icon/windows-server-icon-7.jpg" alt="linux" width="38" height="38"/></code>
