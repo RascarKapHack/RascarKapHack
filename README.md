@@ -48,6 +48,7 @@
 
 > #### Containerization
 ><code><img height="40" src="https://www.docker.com/wp-content/uploads/2022/05/Docker_Temporary_Image_Google_Blue_1080x1080_v1.png"></code>
+><code><img height="40" src="https://neoncloud.eu/licensing/assets/img/clients/lxc.png"></code>
 
 > #### Orchestrator
 ><code><img height="40" src="https://play-lh.googleusercontent.com/TT36Nsjyt0Yn8eyPAXuNK0bJsXmryP9ovsp7qdOy9sulYlr7v2Le5Ckf0I9S3AiaaXs=w240-h480-rw"></code>
