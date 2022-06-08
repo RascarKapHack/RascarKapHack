@@ -3,7 +3,7 @@
 </p>
 ---
 -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tiro+Devanagari+Sanskrit&size=32&duration=2000&color=CF0000&lines=Ing%C3%A9nieur+s%C3%A9curit%C3%A9;DevOps)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tiro+Devanagari+Sanskrit&size=32&duration=2000&color=CF0000&lines=Assistant+RSSI;Ing%C3%A9nieur+S%C3%A9curit%C3%A9;DevOps)
 ---
 
 <p align="center">
