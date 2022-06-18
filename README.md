@@ -106,7 +106,7 @@ Regrouper entre
 
  
 <table border=1>
-<tr font-size=50px >
+<tr font-size=5000px >
 Interpreted
 </tr>
 <tr>
