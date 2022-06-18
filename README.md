@@ -104,3 +104,23 @@ Regrouper entre
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shinichiokada/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shinichiokada/2" alt="Recent Article 3">
 -->
 
+<table border=1>
+<tr>
+<td><img src="img/vim.png" /></td>
+<td><img src="img/vim.png" /></td>
+<td><img src="img/vim.png" /></td>
+</tr>
+<tr>
+<td><img src="img/vim.png" /></td>
+<td>
+<div class="devant" align="right" valign="bottom">
+<img src="img/vim.png" /></td>
+</div>
+<td><img src="img/vim.png" /></td>
+</tr>
+<tr>
+<td><img src="img/vim.png" /></td>
+<td><img src="img/vim.png" /></td>
+<td><img src="img/vim.png" /></td>
+</tr>
+</table>
