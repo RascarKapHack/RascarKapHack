@@ -135,15 +135,27 @@ Regrouper entre
 
   <tr>
     <td><img width="40" height="40" src="./img/rogue_ap.png" /><br>[2020] Rogue AP - Evil Twin</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 
 
   </tr>
     <td><img width="40" height="40" src="https://img.freepik.com/vecteurs-libre/voleur-portant-sac-argent_33070-2129.jpg?w=2000" /><br>[2020] Web Scrapping</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
   <tr>
 
   <tr>
     <td><img width="40" height="40" src="https://pics.clipartpng.com/midle/Soccer_Ball_PNG_Clip_Art-1361.png" /><br>[2019] Soccer Simulator</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 
 </table>
