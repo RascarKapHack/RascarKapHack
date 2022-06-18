@@ -117,7 +117,7 @@ Regrouper entre
 <td><img width="40" height="40" src="https://www.papo-france.com/1200-thickbox_default/chevalier-griffon.jpg" /><br>[2020] Hardening Debian</td>
 </tr>
 <tr>
-<td><img width="60" height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/langfr-1920px-Node.js_logo.svg.png" /></td>
+<td><img width="60" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/langfr-1920px-Node.js_logo.svg.png" /></td>
 <td><img width="40" height="40" src="https://sparkcdnwus2.azureedge.net/sparkimageassets/XPDC2RH70K22MN-08afd558-a61c-4a63-9171-d3f199738e9f" /><br>[2021] Discord Bot</td>
 <td><img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" /><br>[2021] Web Application - PDF Extraction</td>
 </tr>
