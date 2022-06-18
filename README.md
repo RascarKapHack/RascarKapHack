@@ -128,8 +128,8 @@ Regrouper entre
 </tr>
 <tr>
 <td><img width="60" height="60" src="https://blog.cellenza.com/wp-content/uploads/2017/01/PowerShell_5.0_icon.png" /></td>
-<td><img width="40" height="40" src="https://www.zupimages.net/up/22/24/4rcd.png" />[2022] AD Script</td>
-<td><img width="40" height="40" src="https://www.papo-france.com/1200-thickbox_default/chevalier-griffon.jpg" />[2022] Hardening Windows 11</td>
+<td><img width="40" height="40" src="https://www.zupimages.net/up/22/24/4rcd.png" /><br>[2022] AD Script</td>
+<td><img width="40" height="40" src="https://www.papo-france.com/1200-thickbox_default/chevalier-griffon.jpg" /><br>[2022] Hardening Windows 11</td>
 </tr>
 </table>
 
