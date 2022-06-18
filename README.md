@@ -123,8 +123,13 @@ Regrouper entre
 </tr>
 <tr>
 <td><img width="60" height="60" src="./img/vba.png" /></td>
-<td><img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Meuble_h%C3%A9raldique_Engrenage.svg/125px-Meuble_h%C3%A9raldique_Engrenage.svg.png" /></td>
-<td><img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Meuble_h%C3%A9raldique_Engrenage.svg/125px-Meuble_h%C3%A9raldique_Engrenage.svg.png" /></td>
+<td><img width="40" height="40" src="https://play-lh.googleusercontent.com/37EzETO6gZyKmCg2kBIFX1e9gkubxZrVa5fHJ6yOaa7VvEShHjKv2RdtwnZt9Sk258s" /><br>[2021] Data restructuring</td>
+<td><img width="40" height="40" src="https://www.crowdstrike.com/wp-content/uploads/2022/01/0122_11_WhisperGate_Blog_1060x698-1.jpeg" /><br>[2022] Malicious Excel</td>
+</tr>
+<tr>
+<td><img width="60" height="60" src="https://blog.cellenza.com/wp-content/uploads/2017/01/PowerShell_5.0_icon.png" /></td>
+<td><img width="40" height="40" src="https://www.zupimages.net/up/22/24/4rcd.png" />[2022] AD Script</td>
+<td><img width="40" height="40" src="https://www.papo-france.com/1200-thickbox_default/chevalier-griffon.jpg" />[2022] Hardening Windows 11</td>
 </tr>
 </table>
 
