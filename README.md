@@ -107,9 +107,9 @@ Regrouper entre
 <table border=1>
 <tr>
 <td><img width="50" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png" /></td>
-<td><img width="40" src="https://pics.clipartpng.com/midle/Soccer_Ball_PNG_Clip_Art-1361.png" /><br>[2019] Soccer Simulator</td>
-<td><img width="40" src="https://www.coin-des-animateurs.com/wp-content/uploads/2016/05/Petit-jeu-Le-voleur-de-pierres.jpg" /><br>[2020] Web Scrapping</td>
-<td><img width="40" src="https://www.nationalitsolutions.com.au/uploaded/pics/cryptolocker.jpg" /><br>[2022] CryptoLocker</td>
+<td><img width="40" height="40" src="https://pics.clipartpng.com/midle/Soccer_Ball_PNG_Clip_Art-1361.png" /><br>[2019] Soccer Simulator</td>
+<td><img width="40" height="40" src="https://www.coin-des-animateurs.com/wp-content/uploads/2016/05/Petit-jeu-Le-voleur-de-pierres.jpg" /><br>[2020] Web Scrapping</td>
+<td><img width="40" height="40" src="https://www.nationalitsolutions.com.au/uploaded/pics/cryptolocker.jpg" /><br>[2022] CryptoLocker</td>
 </tr>
 <tr>
 <td><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" /></td>
