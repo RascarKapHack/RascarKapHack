@@ -106,21 +106,21 @@ Regrouper entre
 
 <table border=1>
 <tr>
-<td><img src="img/vim.png" /></td>
-<td><img src="img/vim.png" /></td>
-<td><img src="img/vim.png" /></td>
+<td><img width="50" src="img/vim.png" /></td>
+<td><img width="50" src="img/vim.png" /></td>
+<td><img width="50" src="img/vim.png" /></td>
 </tr>
 <tr>
-<td><img src="img/vim.png" /></td>
+<td><img width="50" src="img/vim.png" /></td>
 <td>
 <div class="devant" align="right" valign="bottom">
-<img src="img/vim.png" /></td>
+<img width="50" src="img/vim.png" /></td>
 </div>
-<td><img src="img/vim.png" /></td>
+<td><img width="50" src="img/vim.png" /></td>
 </tr>
 <tr>
-<td><img src="img/vim.png" /></td>
-<td><img src="img/vim.png" /></td>
-<td><img src="img/vim.png" /></td>
+<td><img width="50" src="img/vim.png" /></td>
+<td><img width="50" src="img/vim.png" /></td>
+<td><img width="50" src="img/vim.png" /></td>
 </tr>
 </table>
