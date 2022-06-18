@@ -172,7 +172,7 @@ Interpreted
 <tr>
 <td><img width="60" height="60" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png" /></td>
 <td><img width="60" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" /></td>
-<td><img width="60" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/langfr-1920px-Node.js_logo.svg.png" /></td>
+<td><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/langfr-1920px-Node.js_logo.svg.png" /></td>
 <td><img width="60" height="60" src="./img/vba.png" /></td>
 <td><img width="60" height="60" src="https://blog.cellenza.com/wp-content/uploads/2017/01/PowerShell_5.0_icon.png" /></td>
 </tr>
