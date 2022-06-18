@@ -140,6 +140,9 @@ Interpreted
 
 <table border=1>
 <tr>
+Compiled / Assembly
+</tr>
+<tr>
 <td><img width="50" src="https://symbols.getvecta.com/stencil_94/126_rust-language-icon.1652c6341b.svg" /></td>
 <td><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Meuble_h%C3%A9raldique_Engrenage.svg/125px-Meuble_h%C3%A9raldique_Engrenage.svg.png" /></td>
 </tr>
