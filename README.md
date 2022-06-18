@@ -107,7 +107,7 @@ Regrouper entre
 <table border=1>
 <tr>
 <td><img width="50" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png" /></td>
-<td><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Meuble_h%C3%A9raldique_Engrenage.svg/125px-Meuble_h%C3%A9raldique_Engrenage.svg.png" /></td>
+<td><img width="50" src="https://pics.clipartpng.com/midle/Soccer_Ball_PNG_Clip_Art-1361.png" /><br><p font size="-3">2019-Soccer Simulator</p></td>
 </tr>
 <tr>
 <td><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" /></td>
