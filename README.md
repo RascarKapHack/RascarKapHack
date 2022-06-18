@@ -106,25 +106,25 @@ Regrouper entre
 
 <table border=1>
 <tr>
-<td><img width="50" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png" /></td>
+<td><img width="60" height="60" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png" /></td>
 <td><img width="40" height="40" src="https://pics.clipartpng.com/midle/Soccer_Ball_PNG_Clip_Art-1361.png" /><br>[2019] Soccer Simulator</td>
 <td><img width="40" height="40" src="https://img.freepik.com/vecteurs-libre/voleur-portant-sac-argent_33070-2129.jpg?w=2000" /><br>[2020] Web Scrapping</td>
 <td><img width="40" height="40" src="https://www.nationalitsolutions.com.au/uploaded/pics/cryptolocker.jpg" /><br>[2022] CryptoLocker</td>
 </tr>
 <tr>
-<td><img width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" /></td>
+<td><img width="60" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" /></td>
 <td><img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/GNOME_Terminal_icon_2019.svg/128px-GNOME_Terminal_icon_2019.svg.png?20190330144527" /><br>[2019-2022] Debian's Scripts</td>
 <td><img width="40" height="40" src="https://www.papo-france.com/1200-thickbox_default/chevalier-griffon.jpg" /><br>[2020] Hardening Debian</td>
 </tr>
 <tr>
-<td><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/langfr-1920px-Node.js_logo.svg.png" /></td>
+<td><img width="60" height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/langfr-1920px-Node.js_logo.svg.png" /></td>
 <td><img width="40" height="40" src="https://sparkcdnwus2.azureedge.net/sparkimageassets/XPDC2RH70K22MN-08afd558-a61c-4a63-9171-d3f199738e9f" /><br>[2021] Discord Bot</td>
 <td><img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" /><br>[2021] Web Application - PDF Extraction</td>
 </tr>
 <tr>
-<td><img width="50" src="./img/vba.png" /></td>
-<td><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Meuble_h%C3%A9raldique_Engrenage.svg/125px-Meuble_h%C3%A9raldique_Engrenage.svg.png" /></td>
-<td><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Meuble_h%C3%A9raldique_Engrenage.svg/125px-Meuble_h%C3%A9raldique_Engrenage.svg.png" /></td>
+<td><img width="60" height="60" src="./img/vba.png" /></td>
+<td><img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Meuble_h%C3%A9raldique_Engrenage.svg/125px-Meuble_h%C3%A9raldique_Engrenage.svg.png" /></td>
+<td><img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Meuble_h%C3%A9raldique_Engrenage.svg/125px-Meuble_h%C3%A9raldique_Engrenage.svg.png" /></td>
 </tr>
 </table>
 
