@@ -78,7 +78,7 @@
 <table border=5>
 
 <p align="center">
-</p><h2 align="center"><b>Language Compiled / Assembly</b></h2>
+</p><h4 align="center"><b>Language Compiled / Assembly</b></h2>
 
 <tr>
   <td align="center" ><img width="50" src="https://symbols.getvecta.com/stencil_94/126_rust-language-icon.1652c6341b.svg" /></td>
@@ -109,6 +109,7 @@
 > <code><a><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/visual-studio-code.png"></a></code>
 > <code><a><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png?20200803071016"></a></code>
 
+<!--
 > #### Languages
 > - Interpreted
 >> <code><a href="/src/Languages and Tools/Languages_Python.md"><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></a></code>
@@ -120,6 +121,7 @@
 >> <code><a href="/src/Languages and Tools/Languages_Java.md"><img height="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></a></code>
 >> <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png?20201031132917"></code>
 >> <code><img height="40" src="https://hackr.io/tutorials/assembly-language/logo-assembly-language.svg?ver=1603208610"></code>
+-->
 
 > #### Database
 > <code><img src="https://www.logiciels.pro/wp-content/uploads/2021/05/mariadb-avis-prix-alternatives-logiciel.webp" alt="git" width="40" height="40"/></code>
