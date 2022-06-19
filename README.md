@@ -13,7 +13,7 @@
 ## Presentation
 
 ![Top Langs Rascar](https://github-readme-stats.vercel.app/api/top-langs/?username=RascarKapHack&title_color=000000&layout=compact)
-## **Languages and Tools:**
+## **Languages**
 
 <table border=4>
   <thead>
@@ -107,8 +107,45 @@
 
 </table>
 
-<br>
-<br>
+---
+
+## Medium Articles
+Lorem ipsum
+
+## Projects
+Lorem ipsum
+
+## Repos
+[![FastAPI Web Starter](https://github-readme-stats.vercel.app/api/pin/?username=RascarKapHack&repo=ChatBox&show_owner=true)](https://github.com/RascarKapHack/ChatBox)
+[![FastAPI Web Starter](https://github-readme-stats.vercel.app/api/pin/?username=iTrofa&repo=OmegaVirus&show_owner=true)](https://github.com/iTrofa/OmegaVirus)
+
+## Certifications
+<!--
+Regrouper entre 
+- certifications fonctionnelles (ISO 27001 Lead Auditor/Implementor, CISSP)
+----
+- certifications techniques (CEH/OSCP)
+----
+- certifications admin (LPIC 100-500, CKA, etc)
+-->
+><code><a href="https://aspen.eccouncil.org/Verify"><img src="img/ceh.png" alt="ceh"/></a></code>
+
+---
+<h3>🏆 Github Profile Trophy</h2>
+
+![Rascar GitHub stats](https://github-readme-stats.vercel.app/api?username=RascarKapHack&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+![GitHub Streak Rascar](https://github-readme-streak-stats.herokuapp.com?user=RascarKapHack&theme=holi-theme&hide_border=true)
+
+---
+
+<!--
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shinichiokada/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shinichiokada/0" alt="Recent Article 1">
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shinichiokada/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shinichiokada/2" alt="Recent Article 3">
+-->
+
+## **Tools**
 
 > #### IDE
 > <code><a href="https://github.com/RascarKapHack/Custom-Vim"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/9/9f/20100427190601%21Vimlogo.svg/120px-Vimlogo.svg.png"></a></code>
@@ -164,53 +201,3 @@
 > <code><img src="https://avatars.githubusercontent.com/u/1507452?s=280&v=4" alt="linux" height="40"/></code>
 >[![root-me](img/rootme.png?style=centerme)](https://www.root-me.org/Rascar-Kap-hack "Redirect to root-me")
 ---
-
-## Medium Articles
-Lorem ipsum
-
-## Projects
-Lorem ipsum
-
-## Repos
-[![FastAPI Web Starter](https://github-readme-stats.vercel.app/api/pin/?username=RascarKapHack&repo=ChatBox&show_owner=true)](https://github.com/RascarKapHack/ChatBox)
-[![FastAPI Web Starter](https://github-readme-stats.vercel.app/api/pin/?username=iTrofa&repo=OmegaVirus&show_owner=true)](https://github.com/iTrofa/OmegaVirus)
-
-## Certifications
-<!--
-Regrouper entre 
-- certifications fonctionnelles (ISO 27001 Lead Auditor/Implementor, CISSP)
-----
-- certifications techniques (CEH/OSCP)
-----
-- certifications admin (LPIC 100-500, CKA, etc)
--->
-><code><a href="https://aspen.eccouncil.org/Verify"><img src="img/ceh.png" alt="ceh"/></a></code>
-
----
-<h3>🏆 Github Profile Trophy</h2>
-
-![Rascar GitHub stats](https://github-readme-stats.vercel.app/api?username=RascarKapHack&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-![GitHub Streak Rascar](https://github-readme-streak-stats.herokuapp.com?user=RascarKapHack&theme=holi-theme&hide_border=true)
-
----
-
-<!--
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shinichiokada/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shinichiokada/0" alt="Recent Article 1">
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shinichiokada/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shinichiokada/2" alt="Recent Article 3">
--->
-
-<table>
-    <thead>
-        <tr>
-            <th colspan="2">The table header</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>The table body</td>
-            <td>with two columns</td>
-        </tr>
-    </tbody>
-</table>
