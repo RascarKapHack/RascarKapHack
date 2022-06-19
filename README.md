@@ -13,7 +13,88 @@
 ## Presentation
 
 ![Top Langs Rascar](https://github-readme-stats.vercel.app/api/top-langs/?username=RascarKapHack&title_color=000000&layout=compact)
-## **Languages and Tools:**  
+## **Languages and Tools:**
+
+<table border=4>
+  <p align="center">
+  </p><h4 align="center"><b>Language Interpreted</b></h2>
+  <tr>
+    <td align="center" ><img width="60" height="60" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png" /></td>
+    <td align="center" ><img width="60" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" /></td>
+    <td align="center" ><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/langfr-1920px-Node.js_logo.svg.png" /></td>
+    <td align="center" ><img width="60" height="60" src="./img/vba.png" /></td>
+    <td align="center" ><img width="60" height="60" src="https://blog.cellenza.com/wp-content/uploads/2017/01/PowerShell_5.0_icon.png" /></td>
+  </tr>
+
+  <tr>
+    <td align="center"><img height="40" src="https://www.nationalitsolutions.com.au/uploaded/pics/cryptolocker.jpg" /><br>[2022] CryptoLocker</td>
+    <td align="center"><img height="40" src="https://www.papo-france.com/1200-thickbox_default/chevalier-griffon.jpg" /><br>[2020] Hardening Debian</td>
+    <td align="center"><img height="40" src="https://sparkcdnwus2.azureedge.net/sparkimageassets/XPDC2RH70K22MN-08afd558-a61c-4a63-9171-d3f199738e9f" /><br>[2021] Discord Bot</td>
+    <td align="center"><img height="40" src="https://www.crowdstrike.com/wp-content/uploads/2022/01/0122_11_WhisperGate_Blog_1060x698-1.jpeg" /><br>[2022] Malicious Excel</td>
+    <td align="center"><img height="40" src="https://www.papo-france.com/1200-thickbox_default/chevalier-griffon.jpg" /><br>[2022] Hardening Windows 11</td>
+  </tr>
+
+  <tr>
+    <td align="center"><img height="40" src="https://cdn.futura-sciences.com/buildsv6/images/wide1920/b/7/d/b7dd69dec5_50159526_cryptologue1.jpg" /><br>[2020] Block cipher</td>
+    <td align="center"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/GNOME_Terminal_icon_2019.svg/128px-GNOME_Terminal_icon_2019.svg.png?20190330144527" /><br>[2019-2022] Debian's Scripts</td>
+    <td align="center"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" /><br>[2021] Web Application - PDF Extraction</td>
+    <td align="center"><img height="40" src="https://play-lh.googleusercontent.com/37EzETO6gZyKmCg2kBIFX1e9gkubxZrVa5fHJ6yOaa7VvEShHjKv2RdtwnZt9Sk258s" /><br>[2021] Data restructuring</td>
+    <td align="center"><img height="40" src="https://www.zupimages.net/up/22/24/4rcd.png" /><br>[2022] AD Script</td>
+  <tr>
+
+  <tr>
+    <td align="center"><img height="40" src="./img/rogue_ap.png" /><br>[2020] Rogue AP - Evil Twin</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  </tr>
+    <td align="center"><img height="40" src="https://img.freepik.com/vecteurs-libre/voleur-portant-sac-argent_33070-2129.jpg?w=2000" /><br>[2020] Web Scrapping</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  <tr>
+
+  <tr>
+    <td align="center"><img height="40" src="https://pics.clipartpng.com/midle/Soccer_Ball_PNG_Clip_Art-1361.png" /><br>[2019] Soccer Simulator</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+<table border=5>
+
+<p align="center">
+</p><h2 align="center"><b>Language Compiled / Assembly</b></h2>
+
+<tr>
+  <td align="center" ><img width="50" src="https://symbols.getvecta.com/stencil_94/126_rust-language-icon.1652c6341b.svg" /></td>
+  <td align="center" ><img width="50" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" /></td>
+  <td align="center" ><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png?20201031132917" /></td>
+  <td align="center" ><img width="50" src="https://hackr.io/tutorials/assembly-language/logo-assembly-language.svg?ver=1603208610" /></td>
+</tr>
+
+<tr>
+  <td align="center"><img height="50" src="https://www.callcentrehelper.com/images/stories/2020/10/chat-bot-head-set-760.jpg" /><br>[2021] Secure ChatBox</td>
+  <td align="center"><img height="50" src="https://media.wired.com/photos/5af2249a0b975d475fa7afbf/master/pass/algorithms_landlord-FINAL.jpg" /><br>[2017] Sokoban Bruteforce Solver</td>
+  <td align="center"><img height="50" src="https://www.ovhcloud.com/sites/default/files/styles/large_screens_1x/public/2022-04/whatis_encryption.png" /><br>[2020] Chiffrement dynamique</td>
+  <td align="center"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Meuble_h%C3%A9raldique_Engrenage.svg/125px-Meuble_h%C3%A9raldique_Engrenage.svg.png" /><br>[2021] Push Stack Registre</td>
+</tr>
+
+<tr>
+  <td></td>
+  <td></td>
+  <td align="center" ><img height="50" src="https://misterprepa.net/wp-content/uploads/2020/10/Matrice-carree-abcd.png" /><br>[2017] Diagonalisation de Matrice</td>
+  <td></td>
+</tr>
+
+</table>
+
 
 > #### IDE
 > <code><a href="https://github.com/RascarKapHack/Custom-Vim"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/9/9f/20100427190601%21Vimlogo.svg/120px-Vimlogo.svg.png"></a></code>
@@ -103,87 +184,4 @@ Regrouper entre
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shinichiokada/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shinichiokada/2" alt="Recent Article 3">
 -->
-
- 
-
-<table border=4>
-  <p align="center">
-  </p><h2 align="center"><b>Interpreted</b></h2>
-  <tr>
-    <td align="center" ><img width="60" height="60" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png" /></td>
-    <td align="center" ><img width="60" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" /></td>
-    <td align="center" ><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/langfr-1920px-Node.js_logo.svg.png" /></td>
-    <td align="center" ><img width="60" height="60" src="./img/vba.png" /></td>
-    <td align="center" ><img width="60" height="60" src="https://blog.cellenza.com/wp-content/uploads/2017/01/PowerShell_5.0_icon.png" /></td>
-  </tr>
-
-  <tr>
-    <td align="center"><img height="40" src="https://www.nationalitsolutions.com.au/uploaded/pics/cryptolocker.jpg" /><br>[2022] CryptoLocker</td>
-    <td align="center"><img height="40" src="https://www.papo-france.com/1200-thickbox_default/chevalier-griffon.jpg" /><br>[2020] Hardening Debian</td>
-    <td align="center"><img height="40" src="https://sparkcdnwus2.azureedge.net/sparkimageassets/XPDC2RH70K22MN-08afd558-a61c-4a63-9171-d3f199738e9f" /><br>[2021] Discord Bot</td>
-    <td align="center"><img height="40" src="https://www.crowdstrike.com/wp-content/uploads/2022/01/0122_11_WhisperGate_Blog_1060x698-1.jpeg" /><br>[2022] Malicious Excel</td>
-    <td align="center"><img height="40" src="https://www.papo-france.com/1200-thickbox_default/chevalier-griffon.jpg" /><br>[2022] Hardening Windows 11</td>
-  </tr>
-
-  <tr>
-    <td align="center"><img height="40" src="https://cdn.futura-sciences.com/buildsv6/images/wide1920/b/7/d/b7dd69dec5_50159526_cryptologue1.jpg" /><br>[2020] Block cipher</td>
-    <td align="center"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/GNOME_Terminal_icon_2019.svg/128px-GNOME_Terminal_icon_2019.svg.png?20190330144527" /><br>[2019-2022] Debian's Scripts</td>
-    <td align="center"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" /><br>[2021] Web Application - PDF Extraction</td>
-    <td align="center"><img height="40" src="https://play-lh.googleusercontent.com/37EzETO6gZyKmCg2kBIFX1e9gkubxZrVa5fHJ6yOaa7VvEShHjKv2RdtwnZt9Sk258s" /><br>[2021] Data restructuring</td>
-    <td align="center"><img height="40" src="https://www.zupimages.net/up/22/24/4rcd.png" /><br>[2022] AD Script</td>
-  <tr>
-
-  <tr>
-    <td align="center"><img height="40" src="./img/rogue_ap.png" /><br>[2020] Rogue AP - Evil Twin</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-
-  </tr>
-    <td align="center"><img height="40" src="https://img.freepik.com/vecteurs-libre/voleur-portant-sac-argent_33070-2129.jpg?w=2000" /><br>[2020] Web Scrapping</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  <tr>
-
-  <tr>
-    <td align="center"><img height="40" src="https://pics.clipartpng.com/midle/Soccer_Ball_PNG_Clip_Art-1361.png" /><br>[2019] Soccer Simulator</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
-
-<table border=5>
-
-<p align="center">
-</p><h2 align="center"><b>Compiled / Assembly</b></h2>
-
-<tr>
-  <td align="center" ><img width="50" src="https://symbols.getvecta.com/stencil_94/126_rust-language-icon.1652c6341b.svg" /></td>
-  <td align="center" ><img width="50" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" /></td>
-  <td align="center" ><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png?20201031132917" /></td>
-  <td align="center" ><img width="50" src="https://hackr.io/tutorials/assembly-language/logo-assembly-language.svg?ver=1603208610" /></td>
-</tr>
-
-<tr>
-  <td align="center"><img height="50" src="https://www.callcentrehelper.com/images/stories/2020/10/chat-bot-head-set-760.jpg" /><br>[2021] Secure ChatBox</td>
-  <td align="center"><img height="50" src="https://media.wired.com/photos/5af2249a0b975d475fa7afbf/master/pass/algorithms_landlord-FINAL.jpg" /><br>[2017] Sokoban Bruteforce Solver</td>
-  <td align="center"><img height="50" src="https://www.ovhcloud.com/sites/default/files/styles/large_screens_1x/public/2022-04/whatis_encryption.png" /><br>[2020] Chiffrement dynamique</td>
-  <td align="center"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Meuble_h%C3%A9raldique_Engrenage.svg/125px-Meuble_h%C3%A9raldique_Engrenage.svg.png" /><br>[2021] Push Stack Registre</td>
-</tr>
-
-<tr>
-  <td></td>
-  <td></td>
-  <td align="center" ><img height="50" src="https://misterprepa.net/wp-content/uploads/2020/10/Matrice-carree-abcd.png" /><br>[2017] Diagonalisation de Matrice</td>
-  <td></td>
-</tr>
-
-</table>
-
 
