@@ -171,10 +171,10 @@ Regrouper entre
 </tr>
 
 <tr>
-  <td><img height="50" src="https://www.callcentrehelper.com/images/stories/2020/10/chat-bot-head-set-760.jpg" /><br>[2021] Secure ChatBox</td>
-  <td><img height="50" src="https://media.wired.com/photos/5af2249a0b975d475fa7afbf/master/pass/algorithms_landlord-FINAL.jpg" /><br>[2017] Sokoban Bruteforce Solver</td>
-  <td><img height="50" src="https://www.ovhcloud.com/sites/default/files/styles/large_screens_1x/public/2022-04/whatis_encryption.png" /><br>[2020] Chiffrement dynamique</td>
-  <td><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Meuble_h%C3%A9raldique_Engrenage.svg/125px-Meuble_h%C3%A9raldique_Engrenage.svg.png" /><br>[2021] Push Stack Registre</td>
+  <td align="center"><img height="50" src="https://www.callcentrehelper.com/images/stories/2020/10/chat-bot-head-set-760.jpg" /><br>[2021] Secure ChatBox</td>
+  <td align="center"><img height="50" src="https://media.wired.com/photos/5af2249a0b975d475fa7afbf/master/pass/algorithms_landlord-FINAL.jpg" /><br>[2017] Sokoban Bruteforce Solver</td>
+  <td align="center"><img height="50" src="https://www.ovhcloud.com/sites/default/files/styles/large_screens_1x/public/2022-04/whatis_encryption.png" /><br>[2020] Chiffrement dynamique</td>
+  <td align="center"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Meuble_h%C3%A9raldique_Engrenage.svg/125px-Meuble_h%C3%A9raldique_Engrenage.svg.png" /><br>[2021] Push Stack Registre</td>
 </tr>
 
 <tr>
