@@ -81,7 +81,7 @@
 <table border=5>
   <thead>
       <tr>
-          <th colspan="5">Language Compiled / Assembly</th>
+          <th colspan="5"><h4 align="center"><b>Language Compiled / Assembly</b></h4></th>
       </tr>
   </thead>
 <tr>
