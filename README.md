@@ -120,37 +120,6 @@ Regrouper entre
   </tr>
 
   <tr>
-  <td>
-    <div id="Global" >
-      <div style="float: left;"><img width="40" height="40" src="https://www.nationalitsolutions.com.au/uploaded/pics/cryptolocker.jpg" /></div>
-      <div style="float: right;">[2022] CryptoLocker</div>
-    </div>
-  </td>
-  <td>
-  <div id="Global" >
-       <td>pute</td>
-       <td>pute</td>
-  </div>
-  </td>
-  <td>
-  <div id="Global" >
-      <div style="float: left;"><a>pute</a></div>
-      <div style="float: right;"><a>pute</a></div>
-    </div>
-  </td>
-  <td><div id="Global" >
-      <div style="float: left;"><a>pute</a></div>
-      <div style="float: right;"><a>pute</a></div>
-    </div></td>
-  <td>
-  <div id="Global" >
-      <div style="float: left;"><a>pute</a></div>
-      <div style="float: right;"><a>pute</a></div>
-    </div>
-  </td>
-  </tr>
-
-  <tr>
     <td><img width="40" height="40" src="https://www.nationalitsolutions.com.au/uploaded/pics/cryptolocker.jpg" /><br>[2022] CryptoLocker</td>
     <td><img width="40" height="40" src="https://www.papo-france.com/1200-thickbox_default/chevalier-griffon.jpg" /><br>[2020] Hardening Debian</td>
     <td><img width="40" height="40" src="https://sparkcdnwus2.azureedge.net/sparkimageassets/XPDC2RH70K22MN-08afd558-a61c-4a63-9171-d3f199738e9f" /><br>[2021] Discord Bot</td>
