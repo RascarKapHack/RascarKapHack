@@ -113,6 +113,7 @@
     <thead>
         <tr>
             <th colspan="3">IDE</th>
+            <th colspan="3">Versionning</th>
         </tr>
     </thead>
     <tbody>
@@ -120,34 +121,6 @@
             <td><code><a href="https://github.com/RascarKapHack/Custom-Vim"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/9/9f/20100427190601%21Vimlogo.svg/120px-Vimlogo.svg.png"></a></code></td>
             <td><code><a><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/visual-studio-code.png"></a></code></td>
             <td><code><a><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png?20200803071016"></a></code></td>
-        </tr>
-    </tbody>
-</table>
-
-<table>
-    <thead>
-        <tr>
-            <th colspan="3">Database</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><code><img src="https://www.logiciels.pro/wp-content/uploads/2021/05/mariadb-avis-prix-alternatives-logiciel.webp" alt="git" width="40" height="40"/></code></td>
-            <td><code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" alt="git" width="40" height="40"/></code></td>
-            <td><code><img src="https://sqliteviewer.com/blog/wp-content/uploads/2015/06/sqlite-database.png" alt="git" height="40"/></code></td>
-        </tr>
-    </tbody>
-</table>
-
-
-<table>
-    <thead>
-        <tr>
-            <th colspan="3">Versionning</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
             <td><code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1024px-Octicons-mark-github.svg.png" alt="git" width="40" height="40"/></code></td>
             <td><code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></code></td>
             <td><code><img src="https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/155/thumb_bigger_formation-gitlab.png" alt="git" width="40" height="40"/></code></td>
@@ -155,9 +128,11 @@
     </tbody>
 </table>
 
+
 <table>
     <thead>
         <tr>
+            <th colspan="1">Build</th>
             <th colspan="3">Virtualisation</th>
             <th colspan="2">Containerization</th>
             <th colspan="3">Orchestrator</th>
@@ -165,6 +140,7 @@
     </thead>
     <tbody>
         <tr>
+            <td><code><img src="https://www.datocms-assets.com/2885/1620155106-brandhcpackerverticalcolor.svg" alt="linux" width="40" height="40"/></code></td>
             <td><code><img height="40" src="https://bearstech.com/technologies-expertises/kvm/logo.svg"></code></td>
             <td><code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/769px-Vmware_workstation_16_icon.svg.png"></code></td>
             <td><code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"></code></td>
@@ -180,23 +156,20 @@
 <table>
     <thead>
         <tr>
-            <th colspan="2">Database</th>
+            <th colspan="2">Systems</th>
+            <th colspan="3">Database</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>The table body</td>
-            <td>with two columns</td>
-            <td>with two columns</td>
+            <td><code><img src="https://icon-library.com/images/windows-server-icon/windows-server-icon-7.jpg" alt="linux" width="38" height="38"/></code></td>
+            <td><code><img src="https://free-astro.org/images/0/04/Debian_logo.png" alt="linux" width="40" height="40"/></code></td>
+            <td><code><img src="https://www.logiciels.pro/wp-content/uploads/2021/05/mariadb-avis-prix-alternatives-logiciel.webp" alt="git" width="40" height="40"/></code></td>
+            <td><code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" alt="git" width="40" height="40"/></code></td>
+            <td><code><img src="https://sqliteviewer.com/blog/wp-content/uploads/2015/06/sqlite-database.png" alt="git" height="40"/></code></td>
         </tr>
     </tbody>
 </table>
-
-
-
-> #### Systems
-> <code><img src="https://icon-library.com/images/windows-server-icon/windows-server-icon-7.jpg" alt="linux" width="38" height="38"/></code>
-> <code><img src="https://free-astro.org/images/0/04/Debian_logo.png" alt="linux" width="40" height="40"/></code>
 
 <table>
     <thead>
@@ -229,7 +202,7 @@
 </table>
 
 > #### Others
-> <code><img src="https://www.datocms-assets.com/2885/1620155106-brandhcpackerverticalcolor.svg" alt="linux" width="40" height="40"/></code>
+> 
 > <code><img src="https://info.varonis.com/hs-fs/hubfs/Imported_Blog_Media/cuckoo_logo-1.png?width=640&height=233&name=cuckoo_logo-1.png" alt="linux" height="40"/></code>
 > <code><img src="https://suricata.io/wp-content/uploads/2021/01/Suricata_logo_600x600.png" alt="linux" height="40"/></code>
 > <code><img src="https://avatars.githubusercontent.com/u/1507452?s=280&v=4" alt="linux" height="40"/></code>
