@@ -180,7 +180,7 @@ Regrouper entre
 <tr>
   <td></td>
   <td></td>
-  <td><img height="50" src="https://misterprepa.net/wp-content/uploads/2020/10/Matrice-carree-abcd.png" /><br>[2017] Diagonalisation de Matrice</td>
+  <td align="center" ><img height="50" src="https://misterprepa.net/wp-content/uploads/2020/10/Matrice-carree-abcd.png" /><br>[2017] Diagonalisation de Matrice</td>
   <td></td>
 </tr>
 
