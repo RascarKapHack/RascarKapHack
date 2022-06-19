@@ -123,14 +123,14 @@ Regrouper entre
   <td>
     <div id="Global" >
       <div style="float: left;"><img width="40" height="40" src="https://www.nationalitsolutions.com.au/uploaded/pics/cryptolocker.jpg" /></div>
-      <div style="float: right;"><a>[2022] CryptoLocker</a></div>
+      <div style="float: right;">[2022] CryptoLocker</div>
     </div>
   </td>
   <td>
   <div id="Global" >
-      <div style="float: left;"><a>pute</a></div>
-      <div style="float: right;"><a>pute</a></div>
-    </div>
+       <td>pute</td>
+       <td>pute</td>
+  </div>
   </td>
   <td>
   <div id="Global" >
