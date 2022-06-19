@@ -103,6 +103,8 @@
 
 </table>
 
+<br>
+<br>
 
 > #### IDE
 > <code><a href="https://github.com/RascarKapHack/Custom-Vim"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/9/9f/20100427190601%21Vimlogo.svg/120px-Vimlogo.svg.png"></a></code>
