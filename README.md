@@ -184,37 +184,6 @@ Compiled / Assembly
 <td><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Meuble_h%C3%A9raldique_Engrenage.svg/125px-Meuble_h%C3%A9raldique_Engrenage.svg.png" /></td>
 </tr>
 
-  <tr>
-  <td>
-    <div id="Global" >
-      <div style="float: left;"><a>pute</a></div>
-      <div style="float: right;"><a>pute</a></div>
-    </div>
-  </td>
-  <td>
-  <div id="Global" >
-      <div style="float: left;"><a>pute</a></div>
-      <div style="float: right;"><a>pute</a></div>
-    </div>
-  </td>
-  <td>
-  <div id="Global" >
-      <div style="float: left;"><a>pute</a></div>
-      <div style="float: right;"><a>pute</a></div>
-    </div>
-  </td>
-  <td><div id="Global" >
-      <div style="float: left;"><a>pute</a></div>
-      <div style="float: right;"><a>pute</a></div>
-    </div></td>
-  <td>
-  <div id="Global" >
-      <div style="float: left;"><a>pute</a></div>
-      <div style="float: right;"><a>pute</a></div>
-    </div>
-  </td>
-  </tr>
-
 </table>
 
 
