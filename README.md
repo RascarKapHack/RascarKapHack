@@ -124,47 +124,109 @@
     </tbody>
 </table>
 
-<!--
-> #### Languages
-> - Interpreted
->> <code><a href="/src/Languages and Tools/Languages_Python.md"><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></a></code>
->> <code><a href="/src/Languages and Tools/Languages_Bash.md"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a></code>
->> <code><a href="/src/Languages and Tools/Languages_NodeJS.md"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/langfr-1920px-Node.js_logo.svg.png"></a></code>
->> <code><a href="https://www.bnbstickers.com/wp-content/uploads/2017/01/private-notext.png"><img height="40" src="./img/vba.png"></a></code> <br>
-> - Compiled / Assembly
->> <code><a href="/src/Languages and Tools/Languages_R.md"><img height="40" src="https://symbols.getvecta.com/stencil_94/126_rust-language-icon.1652c6341b.svg"></a></code>
->> <code><a href="/src/Languages and Tools/Languages_Java.md"><img height="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></a></code>
->> <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png?20201031132917"></code>
->> <code><img height="40" src="https://hackr.io/tutorials/assembly-language/logo-assembly-language.svg?ver=1603208610"></code>
--->
+<table>
+    <thead>
+        <tr>
+            <th colspan="3">Database</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><code><img src="https://www.logiciels.pro/wp-content/uploads/2021/05/mariadb-avis-prix-alternatives-logiciel.webp" alt="git" width="40" height="40"/></code></td>
+            <td><code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" alt="git" width="40" height="40"/></code></td>
+            <td><code><img src="https://sqliteviewer.com/blog/wp-content/uploads/2015/06/sqlite-database.png" alt="git" height="40"/></code></td>
+        </tr>
+    </tbody>
+</table>
 
-> #### Database
-> <code><img src="https://www.logiciels.pro/wp-content/uploads/2021/05/mariadb-avis-prix-alternatives-logiciel.webp" alt="git" width="40" height="40"/></code>
-> <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" alt="git" width="40" height="40"/></code>
-> <code><img src="https://sqliteviewer.com/blog/wp-content/uploads/2015/06/sqlite-database.png" alt="git" height="40"/></code>
 
-> #### Versionning
-> <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1024px-Octicons-mark-github.svg.png" alt="git" width="40" height="40"/></code>
-> <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></code>
-> <code><img src="https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/155/thumb_bigger_formation-gitlab.png" alt="git" width="40" height="40"/></code>
+<table>
+    <thead>
+        <tr>
+            <th colspan="3">Versionning</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1024px-Octicons-mark-github.svg.png" alt="git" width="40" height="40"/></code></td>
+            <td><code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></code></td>
+            <td><code><img src="https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/155/thumb_bigger_formation-gitlab.png" alt="git" width="40" height="40"/></code></td>
+        </tr>
+    </tbody>
+</table>
 
-> #### Virtualisation
-><code><img height="40" src="https://bearstech.com/technologies-expertises/kvm/logo.svg"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/769px-Vmware_workstation_16_icon.svg.png"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"></code>
+<table>
+    <thead>
+        <tr>
+            <th colspan="3">Virtualisation</th>
+            <th colspan="2">Containerization</th>
+            <th colspan="3">Orchestrator</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><code><img height="40" src="https://bearstech.com/technologies-expertises/kvm/logo.svg"></code></td>
+            <td><code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/769px-Vmware_workstation_16_icon.svg.png"></code></td>
+            <td><code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"></code></td>
+            <td><code><img height="40" src="https://www.docker.com/wp-content/uploads/2022/05/Docker_Temporary_Image_Google_Blue_1080x1080_v1.png"></code></td>
+            <td><code><img height="40" src="https://neoncloud.eu/licensing/assets/img/clients/lxc.png"></code></td>
+            <td><code><img height="40" src="https://play-lh.googleusercontent.com/TT36Nsjyt0Yn8eyPAXuNK0bJsXmryP9ovsp7qdOy9sulYlr7v2Le5Ckf0I9S3AiaaXs=w240-h480-rw"></code></td>
+            <td><code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vagrant/vagrant.png"></code></td>
+            <td><code><img height="40" src="https://upload.wikimedia.org/wikipedia/labs/thumb/b/ba/Kubernetes-icon-color.svg/512px-Kubernetes-icon-color.svg.png?20210818121315"></code></td>
+        </tr>
+    </tbody>
+</table>
 
-> #### Containerization
-><code><img height="40" src="https://www.docker.com/wp-content/uploads/2022/05/Docker_Temporary_Image_Google_Blue_1080x1080_v1.png"></code>
-><code><img height="40" src="https://neoncloud.eu/licensing/assets/img/clients/lxc.png"></code>
+<table>
+    <thead>
+        <tr>
+            <th colspan="2">Database</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>The table body</td>
+            <td>with two columns</td>
+            <td>with two columns</td>
+        </tr>
+    </tbody>
+</table>
 
-> #### Orchestrator
-><code><img height="40" src="https://play-lh.googleusercontent.com/TT36Nsjyt0Yn8eyPAXuNK0bJsXmryP9ovsp7qdOy9sulYlr7v2Le5Ckf0I9S3AiaaXs=w240-h480-rw"></code>
-><code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vagrant/vagrant.png"></code>
-><code><img height="40" src="https://upload.wikimedia.org/wikipedia/labs/thumb/b/ba/Kubernetes-icon-color.svg/512px-Kubernetes-icon-color.svg.png?20210818121315"></code>
+
 
 > #### Systems
 > <code><img src="https://icon-library.com/images/windows-server-icon/windows-server-icon-7.jpg" alt="linux" width="38" height="38"/></code>
 > <code><img src="https://free-astro.org/images/0/04/Debian_logo.png" alt="linux" width="40" height="40"/></code>
+
+<table>
+    <thead>
+        <tr>
+            <th colspan="2">Database</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>The table body</td>
+            <td>with two columns</td>
+            <td>with two columns</td>
+        </tr>
+    </tbody>
+</table>
+
+<table>
+    <thead>
+        <tr>
+            <th colspan="2">Database</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>The table body</td>
+            <td>with two columns</td>
+            <td>with two columns</td>
+        </tr>
+    </tbody>
+</table>
 
 > #### Others
 > <code><img src="https://www.datocms-assets.com/2885/1620155106-brandhcpackerverticalcolor.svg" alt="linux" width="40" height="40"/></code>
