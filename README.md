@@ -174,7 +174,7 @@
 <table>
     <thead>
         <tr>
-            <th colspan="3">Others</th>
+            <th colspan="4">Others</th>
         </tr>
     </thead>
     <tbody>
@@ -182,11 +182,12 @@
             <td><code><img src="https://info.varonis.com/hs-fs/hubfs/Imported_Blog_Media/cuckoo_logo-1.png?width=640&height=233&name=cuckoo_logo-1.png" alt="linux" height="40"/></code></td>
             <td><code><img src="https://suricata.io/wp-content/uploads/2021/01/Suricata_logo_600x600.png" alt="linux" height="40"/></code></td>
             <td><code><img src="https://avatars.githubusercontent.com/u/1507452?s=280&v=4" alt="linux" height="40"/></code></td>
+            <td><code><a href="https://www.root-me.org/Rascar-Kap-hack"><img height="40" src="img/rootme.png?style=centerme"></a></code></td>
         </tr>
     </tbody>
 </table>
 
-[![root-me](img/rootme.png?style=centerme)](https://www.root-me.org/Rascar-Kap-hack "Redirect to root-me")
+
 ---
 
 ## Medium Articles
