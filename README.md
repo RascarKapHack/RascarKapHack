@@ -107,7 +107,8 @@ Regrouper entre
  
 
 <table border=4>
-  <center><b>Interpreted</b></center>
+  <p align="center">
+  </p><h2 align="center"><b>Interpreted</b></h2>
   <tr>
     <td align="center" ><img width="60" height="60" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png" /></td>
     <td align="center" ><img width="60" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" /></td>
