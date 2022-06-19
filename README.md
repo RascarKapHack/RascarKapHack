@@ -16,8 +16,11 @@
 ## **Languages and Tools:**
 
 <table border=4>
-  <p align="center">
-  </p><h4 align="center"><b>Language Interpreted</b></h2>
+  <thead>
+      <tr>
+          <th colspan="5"><h4 align="center"><b>Language Interpreted</b></h4></th>
+      </tr>
+  </thead>
   <tr>
     <td align="center" ><img width="60" height="60" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png" /></td>
     <td align="center" ><img width="60" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" /></td>
@@ -76,10 +79,11 @@
 </table>
 
 <table border=5>
-
-<p align="center">
-</p><h4 align="center"><b>Language Compiled / Assembly</b></h2>
-
+  <thead>
+      <tr>
+          <th colspan="5"><h4 align="center"><b>Language Compiled / Assembly</b></h4></th>
+      </tr>
+  </thead>
 <tr>
   <td align="center" ><img width="50" src="https://symbols.getvecta.com/stencil_94/126_rust-language-icon.1652c6341b.svg" /></td>
   <td align="center" ><img width="50" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" /></td>
@@ -197,3 +201,16 @@ Regrouper entre
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shinichiokada/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shinichiokada/2" alt="Recent Article 3">
 -->
 
+<table>
+    <thead>
+        <tr>
+            <th colspan="2">The table header</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>The table body</td>
+            <td>with two columns</td>
+        </tr>
+    </tbody>
+</table>
