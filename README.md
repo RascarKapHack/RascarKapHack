@@ -107,10 +107,7 @@ Regrouper entre
  
 
 <table border=4>
-  <tr>
-    Interpreted
-  </tr>
-
+  <center><b>Interpreted</b></center>
   <tr>
     <td align="center" ><img width="60" height="60" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png" /></td>
     <td align="center" ><img width="60" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" /></td>
@@ -160,26 +157,21 @@ Regrouper entre
   </tr>
 </table>
 
-<table border=1>
+<table border=5>
+<center><b>Compiled / Assembly</b></center>
+
 <tr>
-Compiled / Assembly
+  <td><img width="50" src="https://symbols.getvecta.com/stencil_94/126_rust-language-icon.1652c6341b.svg" /></td>
+  <td><img width="50" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" /></td>
+  <td><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png?20201031132917" /></td>
+  <td><img width="50" src="https://hackr.io/tutorials/assembly-language/logo-assembly-language.svg?ver=1603208610" /></td>
 </tr>
+
 <tr>
-<td><img width="50" src="https://symbols.getvecta.com/stencil_94/126_rust-language-icon.1652c6341b.svg" /></td>
-<td><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Meuble_h%C3%A9raldique_Engrenage.svg/125px-Meuble_h%C3%A9raldique_Engrenage.svg.png" /></td>
 </tr>
-<tr>
-<td><img width="50" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" /></td>
-<td><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Meuble_h%C3%A9raldique_Engrenage.svg/125px-Meuble_h%C3%A9raldique_Engrenage.svg.png" /><br> test</td>
-<td><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Meuble_h%C3%A9raldique_Engrenage.svg/125px-Meuble_h%C3%A9raldique_Engrenage.svg.png" /></td>
-</tr>
-<tr>
-<td><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png?20201031132917" /></td>
+
 <td><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Meuble_h%C3%A9raldique_Engrenage.svg/125px-Meuble_h%C3%A9raldique_Engrenage.svg.png" /></td>
 <td><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Meuble_h%C3%A9raldique_Engrenage.svg/125px-Meuble_h%C3%A9raldique_Engrenage.svg.png" /></td>
-</tr>
-<tr>
-<td><img width="50" src="https://hackr.io/tutorials/assembly-language/logo-assembly-language.svg?ver=1603208610" /></td>
 <td><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Meuble_h%C3%A9raldique_Engrenage.svg/125px-Meuble_h%C3%A9raldique_Engrenage.svg.png" /></td>
 <td><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Meuble_h%C3%A9raldique_Engrenage.svg/125px-Meuble_h%C3%A9raldique_Engrenage.svg.png" /></td>
 </tr>
