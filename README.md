@@ -158,7 +158,9 @@ Regrouper entre
 </table>
 
 <table border=5>
-<center><b>Compiled / Assembly</b></center>
+
+<p align="center">
+</p><h2 align="center"><b>Compiled / Assembly</b></h2>
 
 <tr>
   <td><img width="50" src="https://symbols.getvecta.com/stencil_94/126_rust-language-icon.1652c6341b.svg" /></td>
