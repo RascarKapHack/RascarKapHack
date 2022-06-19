@@ -105,16 +105,49 @@ Regrouper entre
 -->
 
  
+
 <table border=4>
   <tr>
     Interpreted
   </tr>
+
   <tr>
     <td align="center" ><img width="60" height="60" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png" /></td>
     <td align="center" ><img width="60" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" /></td>
     <td align="center" ><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/langfr-1920px-Node.js_logo.svg.png" /></td>
     <td align="center" ><img width="60" height="60" src="./img/vba.png" /></td>
     <td align="center" ><img width="60" height="60" src="https://blog.cellenza.com/wp-content/uploads/2017/01/PowerShell_5.0_icon.png" /></td>
+  </tr>
+
+  <tr>
+  <td>
+    <div id="Global" >
+      <div style="float: left;"><img width="40" height="40" src="https://www.nationalitsolutions.com.au/uploaded/pics/cryptolocker.jpg" /></div>
+      <div style="float: right;"><a>[2022] CryptoLocker</a></div>
+    </div>
+  </td>
+  <td>
+  <div id="Global" >
+      <div style="float: left;"><a>pute</a></div>
+      <div style="float: right;"><a>pute</a></div>
+    </div>
+  </td>
+  <td>
+  <div id="Global" >
+      <div style="float: left;"><a>pute</a></div>
+      <div style="float: right;"><a>pute</a></div>
+    </div>
+  </td>
+  <td><div id="Global" >
+      <div style="float: left;"><a>pute</a></div>
+      <div style="float: right;"><a>pute</a></div>
+    </div></td>
+  <td>
+  <div id="Global" >
+      <div style="float: left;"><a>pute</a></div>
+      <div style="float: right;"><a>pute</a></div>
+    </div>
+  </td>
   </tr>
 
   <tr>
@@ -181,6 +214,38 @@ Compiled / Assembly
 <td><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Meuble_h%C3%A9raldique_Engrenage.svg/125px-Meuble_h%C3%A9raldique_Engrenage.svg.png" /></td>
 <td><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Meuble_h%C3%A9raldique_Engrenage.svg/125px-Meuble_h%C3%A9raldique_Engrenage.svg.png" /></td>
 </tr>
+
+  <tr>
+  <td>
+    <div id="Global" >
+      <div style="float: left;"><a>pute</a></div>
+      <div style="float: right;"><a>pute</a></div>
+    </div>
+  </td>
+  <td>
+  <div id="Global" >
+      <div style="float: left;"><a>pute</a></div>
+      <div style="float: right;"><a>pute</a></div>
+    </div>
+  </td>
+  <td>
+  <div id="Global" >
+      <div style="float: left;"><a>pute</a></div>
+      <div style="float: right;"><a>pute</a></div>
+    </div>
+  </td>
+  <td><div id="Global" >
+      <div style="float: left;"><a>pute</a></div>
+      <div style="float: right;"><a>pute</a></div>
+    </div></td>
+  <td>
+  <div id="Global" >
+      <div style="float: left;"><a>pute</a></div>
+      <div style="float: right;"><a>pute</a></div>
+    </div>
+  </td>
+  </tr>
+
 </table>
 
 
