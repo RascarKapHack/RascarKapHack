@@ -164,19 +164,24 @@ Regrouper entre
 </p><h2 align="center"><b>Compiled / Assembly</b></h2>
 
 <tr>
-  <td><img width="50" src="https://symbols.getvecta.com/stencil_94/126_rust-language-icon.1652c6341b.svg" /></td>
-  <td><img width="50" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" /></td>
-  <td><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png?20201031132917" /></td>
-  <td><img width="50" src="https://hackr.io/tutorials/assembly-language/logo-assembly-language.svg?ver=1603208610" /></td>
+  <td align="center" ><img width="50" src="https://symbols.getvecta.com/stencil_94/126_rust-language-icon.1652c6341b.svg" /></td>
+  <td align="center" ><img width="50" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" /></td>
+  <td align="center" ><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png?20201031132917" /></td>
+  <td align="center" ><img width="50" src="https://hackr.io/tutorials/assembly-language/logo-assembly-language.svg?ver=1603208610" /></td>
 </tr>
 
 <tr>
+  <td><img height="50" src="https://www.callcentrehelper.com/images/stories/2020/10/chat-bot-head-set-760.jpg" /><br>[2021] Secure ChatBox</td>
+  <td><img height="50" src="https://media.wired.com/photos/5af2249a0b975d475fa7afbf/master/pass/algorithms_landlord-FINAL.jpg" /><br>[2017] Sokoban Bruteforce Solver</td>
+  <td><img height="50" src="https://www.ovhcloud.com/sites/default/files/styles/large_screens_1x/public/2022-04/whatis_encryption.png" /><br>[2020] Chiffrement dynamique</td>
+  <td><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Meuble_h%C3%A9raldique_Engrenage.svg/125px-Meuble_h%C3%A9raldique_Engrenage.svg.png" /><br>[2021] Push Stack Registre</td>
 </tr>
 
-<td><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Meuble_h%C3%A9raldique_Engrenage.svg/125px-Meuble_h%C3%A9raldique_Engrenage.svg.png" /></td>
-<td><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Meuble_h%C3%A9raldique_Engrenage.svg/125px-Meuble_h%C3%A9raldique_Engrenage.svg.png" /></td>
-<td><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Meuble_h%C3%A9raldique_Engrenage.svg/125px-Meuble_h%C3%A9raldique_Engrenage.svg.png" /></td>
-<td><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Meuble_h%C3%A9raldique_Engrenage.svg/125px-Meuble_h%C3%A9raldique_Engrenage.svg.png" /></td>
+<tr>
+  <td></td>
+  <td></td>
+  <td><img height="50" src="https://misterprepa.net/wp-content/uploads/2020/10/Matrice-carree-abcd.png" /><br>[2017] Diagonalisation de Matrice</td>
+  <td></td>
 </tr>
 
 </table>
