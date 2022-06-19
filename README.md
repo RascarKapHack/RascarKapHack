@@ -43,6 +43,14 @@
   <tr>
 
   <tr>
+    <td align="center"><img height="40" src="https://thehackernews.com/images/-Rakg2fpQYKA/YEER9J5LX1I/AAAAAAAAA4U/sWat0QTMsU8ShZIwvyO4Pk46kWJCG0RFgCLcBGAsYHQ/s0/malware-analysis-training-course.jpg" /><br>[2020] Malware Analysis</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
     <td align="center"><img height="40" src="./img/rogue_ap.png" /><br>[2020] Rogue AP - Evil Twin</td>
     <td></td>
     <td></td>
