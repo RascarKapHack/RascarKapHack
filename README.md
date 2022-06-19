@@ -109,10 +109,20 @@
 
 ## **Tools**
 
-> #### IDE
-> <code><a href="https://github.com/RascarKapHack/Custom-Vim"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/9/9f/20100427190601%21Vimlogo.svg/120px-Vimlogo.svg.png"></a></code>
-> <code><a><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/visual-studio-code.png"></a></code>
-> <code><a><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png?20200803071016"></a></code>
+<table>
+    <thead>
+        <tr>
+            <th colspan="3">IDE</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><code><a href="https://github.com/RascarKapHack/Custom-Vim"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/9/9f/20100427190601%21Vimlogo.svg/120px-Vimlogo.svg.png"></a></code></td>
+            <td><code><a><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/visual-studio-code.png"></a></code></td>
+            <td><code><a><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png?20200803071016"></a></code></td>
+        </tr>
+    </tbody>
+</table>
 
 <!--
 > #### Languages
